@@ -11,12 +11,11 @@ const options = {
         },
 
         servers: [
-            {
-                url: "http://localhost:3000",
-                description: "Servidor local"
-            }
-        ],
-
+    {
+        url: " https://backend-atividade1.onrender.com",
+        description: "API em produção"
+    }
+],
         tags: [
             {
                 name: "Profiles",
